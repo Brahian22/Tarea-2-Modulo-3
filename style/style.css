@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.imgslides{
+    width: 1000;
+    height: 600px;
+}
+
+.descripciones {
+    display: inline-block;
+}
+
+.descripciones img {
+    width: 20em;
+    
+}
+
+.navbar {
+    background-color: rgb(94, 146, 241) !important;
+    
+}
+
+.navbar ul li a {
+    color: white
+}
+
+.logotipo {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.titu {
+    font-family:'Bebas Neue', cursive;
+    color: white ;
+    font-size: 50px;
+    text-align: start;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+}
+
+.texto {
+    font-family:'Bebas Neue', cursive;
+    color: white;
+    font-size: 25px;
+    text-align: start;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    
+}
+.card {
+    margin: 10px;
+    margin-top: 20px;
+    background-color: rgb(94, 146, 241);
+}
+.tam {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.title {
+    text-align: center !important;
+    color: white !important;
+}
